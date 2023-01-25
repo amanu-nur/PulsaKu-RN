@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "573011164480",
+    "project_id": "pulsaku-8e8cd",
+    "storage_bucket": "pulsaku-8e8cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573011164480:android:cb78d7a0698f9354c54ea5",
+        "android_client_info": {
+          "package_name": "com.pulsaku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573011164480-k63qo5maqlonled6nti7pojslkmvl1dm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pulsaku",
+            "certificate_hash": "83c872545ddd18167a35b25ace5e8460fee7e150"
+          }
+        },
+        {
+          "client_id": "573011164480-4ocobvnljs1g52l2mclkmed7lv218nu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8jvoXJ-uunwLmNVuvoqtxy1V9j5zvhUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573011164480-4ocobvnljs1g52l2mclkmed7lv218nu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
