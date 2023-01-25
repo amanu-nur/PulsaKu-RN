@@ -18,7 +18,9 @@ Clone Project & Install
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Home](https://raw.githubusercontent.com/amanu-nur/PulsaKu-RN/master/screenshoot/Screenshot%202023-01-26%20at%2005.50.29.png)
+
+![History Transaksi](https://raw.githubusercontent.com/amanu-nur/PulsaKu-RN/master/screenshoot/Screenshot%202023-01-26%20at%2005.50.57.png)
 
 ## Authors
 
